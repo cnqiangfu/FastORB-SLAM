@@ -1,4 +1,4 @@
-# FastORB-SLAM: a Fast ORB-SLAM Method with Coarse-to-Fine Descriptor Independent Keypoint Matching
+# Fast ORB-SLAM Method without Keypoint Descriptors
 
 [FastORB-SLAM](https://arxiv.org/abs/2008.09870) is develop based on the ORB-SLAM2, which achieves state-of-the-art performance in terms of accuracy and robustness and
 runs about twice as fast as ORB-SLAM2.
